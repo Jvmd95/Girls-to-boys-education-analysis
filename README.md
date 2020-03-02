@@ -1,5 +1,7 @@
 # Girls to boys education analysis
 
+## SQL and Spark practice
+
 I created this data analysis project to practice with Spark and SQL. Even though I started with Spark I quickly realized that, even though Spark is one of the best frameworks to work with big data, it would be tiresome to work with it in such small data, as it lacks many functionalities that SQLite3 and Pandas have (a clear example being the lack of an UPDATE statement in Spark SQL).
 
 Being a practice project I forgo efficiency for the oportunity to practice SQL and other plotting libraries like bokeh.
